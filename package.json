@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "homepage":"https://ecommerce-app-frontend-sable.vercel.app",
-  "proxy": "https://mernappbackend-g396.onrender.com",
+  "proxy": "https://ecommerce-backend-ct0a.onrender.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
