@@ -6,7 +6,7 @@ import Contact from "./pages/Contact";
 import Pagenotfound from "./pages/Pagenotfound";
 import Register from "./pages/Auth/Register";
 import Login from "./pages/Auth/Login";
-import "./styles/AuthStyles.css"
+import "./styles/AuthStyles.css";
 import Dashboard from "./pages/user/Dashboard";
 import PrivateRoute from "./components/Routes/PrivateRoute";
 import ForgotPassword from "./pages/Auth/ForgotPassword";
